@@ -53,7 +53,7 @@ Cette documentation décrit l'architecture réseau conçue avec Cisco Packet Tra
     - DHCP Snooping.
 
 ## Schéma du Réseau
-![Schéma cisco packet tracer](Maquette.png)
+![Schéma cisco packet tracer](https://raw.githubusercontent.com/MalikSploit/Architecture_CCNA/main/Maquette.png)
 
 ## Configuration de Sécurité
 
